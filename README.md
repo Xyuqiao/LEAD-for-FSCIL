@@ -2,8 +2,6 @@
 
 Official implementation of the paper: ''**Leveraging Textual Semantic Guidance for Few-Shot Class-Incremental Learning**''
 
-*Submitted to ACM Transactions on Multimedia Computing, Communications and Applications (TOMM).*
-
 ## 📢 Code Release Plan
 The code will be publicly released immediately upon the formal acceptance of the manuscript.
 
